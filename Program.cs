@@ -14,17 +14,17 @@ namespace EjerciciosCarmen
             // Código principal que se ejecuta al iniciar el programa
 
             //Ejercicio2
-            /*Console.WriteLine("Introduce una frase y el programa contara los espacios");
+            Console.WriteLine("Introduce una frase y el programa contara los espacios");
             String str = "";
             str = Console.ReadLine();
             if (str != null)
             {
                 Console.WriteLine("Los espacios de la frase " + str + " son: " + encuentraEspacios(str));
 
-            }*/
+            }
 
             //Ejercicio3
-            /*
+            
             Console.WriteLine("Introduce un número y el programa te dirá si es primo o no");
             String nString = Console.ReadLine();
             if (int.TryParse(nString, out int n))
@@ -37,10 +37,10 @@ namespace EjerciciosCarmen
                 {
                     Console.WriteLine("El número " + n + " no es Primo");
                 }
-            }*/
+            }
 
             //Ejercicio5
-            /*
+            
             Console.WriteLine("Introduce la base y el exponente para calcular una potencia");
             if (int.TryParse(Console.ReadLine(), out int numeroBase) && int.TryParse(Console.ReadLine(), out int numeroExponente))
             {
@@ -50,10 +50,10 @@ namespace EjerciciosCarmen
             if (int.TryParse(Console.ReadLine(), out int numeroBase2) && int.TryParse(Console.ReadLine(), out int numeroExponente2))
             {
                 Console.WriteLine("Resultado: " + potenciaRecursiva(numeroBase2, numeroExponente2));
-            }*/
+            }
 
             //Ejercicio6
-            /*
+            
             int intentos = 3;
             bool retorno = false;
             while (!retorno && intentos != 0)
@@ -82,10 +82,10 @@ namespace EjerciciosCarmen
                 Console.WriteLine("Lo siento número máximo de intentos alcanzado");
             }
 
-            */
+            
 
             //Ejercicio7
-            /*
+            
             Console.WriteLine("Introduce dos números para ver si uno es multiplo de otro");
             String numeroAString = Console.ReadLine();
             String numeroBString = Console.ReadLine();
@@ -102,8 +102,8 @@ namespace EjerciciosCarmen
                         Console.WriteLine("Los números no son multiplos");
                     }
                 }
-            }*/
-            /*
+            }
+            
             //Ejercicio8
             Console.WriteLine("Introduce un número");
             String numeroString = Console.ReadLine();
@@ -115,7 +115,7 @@ namespace EjerciciosCarmen
                     Console.WriteLine("La suma de los digitos de: " + numero + " es: " + sumaCifras(numero));
                 }
             }
-            */
+            
 
 
             //Ejercicio9

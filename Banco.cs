@@ -8,7 +8,7 @@ class Banco
     
    }
 
-   public void operar(Cliente a){
+   public void operar(Cliente a, Cliente b, Cliente c){
       
    }
 
