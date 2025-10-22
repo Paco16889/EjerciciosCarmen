@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj": {}
+    "C:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj": {
+    "C:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj",
+        "projectUniqueName": "C:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj",
         "projectName": "EjerciciosCarmen",
-        "projectPath": "c:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj",
+        "projectPath": "C:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\EjerciciosCarmen.csproj",
         "packagesPath": "C:\\Users\\Paco\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\obj\\",
+        "outputPath": "C:\\Users\\Paco\\Desktop\\EjercicioMeli.fields\\EjerciciosCarmen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paco\\AppData\\Roaming\\NuGet\\NuGet.Config"
