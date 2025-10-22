@@ -4,33 +4,41 @@ class Cliente
     private double cantidadTotal;
     
     public Cliente(String nombre){
-        nombre = nombre;
-        cantidadTotal = 0;
+        this.nombre = nombre;
+        this.cantidadTotal = 0;
     }
 
     public String GetNombre(){
         return nombre;
     }
 
-    public static void SetNombre(){
-        Nombre = nombre;
+    public void SetNombre(String nombre){
+        this.nombre = nombre;
     }
 
     public double GetCantidadTotal(){
         return cantidadTotal;
     }
 
- 
+  // no pongo setter de cantidad total, ya que usamos dos metodos especificos para cambiar el valor del atributo
 
-    public static void Ingresar(double cantidad){
-
+    public  void Ingresar(double cantidad){
+        cantidadTotal += cantidad;
     }
 
-    public static void Sacar(double cantidad){
-
+    public  void Sacar(double cantidad){
+        if (cantidad > cantidadTotal)
+        {
+            Console.WriteLine("No tiene suficiente Efectivo");
+        }
+        else
+        {
+            cantidadTotal -= cantidad;
+        }
+        
     }
 
-    public static void MostrarInformacion() {
-
+    public  void MostrarInformacion() {
+        Console.WriteLine("Cliente:" + GetNombre() + "| Cantidad: " + GetCantidadTotal());
     }
 }
