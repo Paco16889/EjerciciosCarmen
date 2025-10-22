@@ -1,0 +1,14 @@
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\bin\Debug\net8.0\EjerciciosCarmen.exe
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\bin\Debug\net8.0\EjerciciosCarmen.deps.json
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\bin\Debug\net8.0\EjerciciosCarmen.runtimeconfig.json
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\bin\Debug\net8.0\EjerciciosCarmen.dll
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\bin\Debug\net8.0\EjerciciosCarmen.pdb
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.AssemblyInfoInputs.cache
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.AssemblyInfo.cs
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.csproj.CoreCompileInputs.cache
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.dll
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\refint\EjerciciosCarmen.dll
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.pdb
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\EjerciciosCarmen.genruntimeconfig.cache
+c:\Users\Paco\Desktop\EjercicioMeli.fields\EjerciciosCarmen\obj\Debug\net8.0\ref\EjerciciosCarmen.dll
