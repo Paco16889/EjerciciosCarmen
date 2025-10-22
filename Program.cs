@@ -140,9 +140,21 @@ namespace EjerciciosCarmen
             while (!retorno && intentos != 0)
             {
                 if (user.Equals(usuario) && psswd.Equals(contrasena))
-                    retorno =   true;
+                {
+                    Console.WriteLine("Contraseña y Usuario correcto");
+                    retorno = true;
+                }
+                else
+                {
+                    Console.WriteLine("Contraseña o Usuario incorrecto, intentalo de nuevo");
+                }
 
                 intentos--;
+            }
+            
+            if (intentos == 0)
+            {
+                Console.WriteLine("Lo siento número máximo de intentos alcanzado");
             }
             return retorno;      
         }
